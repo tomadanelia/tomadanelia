@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Toma 👋
 
-<!--
-**tomadanelia/tomadanelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Backend / Systems / Curious about everything  
 
-Here are some ideas to get you started:
+### Tech
+- Java, TypeScript, React ,
+- PostgreSQL, Redis ,supabase ,
+- Laravel,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Finishing university
+- Working on a streaming backend
+- Learning deeper backend + security concepts
+- getting better in react
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
