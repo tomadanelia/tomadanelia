@@ -12,7 +12,7 @@ Currently working on a full-featured **video streaming platform** with **Laravel
 ### Technical Skills
 **Frontend** · React · Zustand · Vite · Socket.IO · Pixi.js · Jest  
 **Backend** · Node.js · Express · Nest.js · FastAPI · Laravel (PHP) · WebSockets · Supabase  
-**Languages** · TypeScript · JavaScript · Python · SQL  
+**Languages** · PHP , TypeScript · JavaScript · Java , Python · SQL  
 **Databases** · PostgreSQL · MongoDB  
 **Cloud & DevOps** · AWS EC2 · Render · PM2 · Git  
 **Other** · TensorFlow.js (AI) · JWT · OAuth
